@@ -1,0 +1,6 @@
+#file: divider_top.rin
+width (vdd 100 vss 100)
+west (p0 p1 p2 p3 p5 p6 p7 p42 p36  p37 p15 p29 p28 p14)
+north(p16 p17 p18 p19 p25 p33 p34 p40 p39 p38 p35  p4 )
+east (p8 p9 p10 p11 p12 p13  )
+south (p20 p21 p23 p24 p22 p31 p32 p30 p27 p26)
